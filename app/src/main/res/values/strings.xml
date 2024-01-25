@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Practica</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="convert_options">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string name="name">Yordi Monreal</string>
+    <string name="group">TIDS 5-1</string>
+
+    <string name="menu_home">Home</string>
+    <string name="p1">Practica #1</string>
+
+    <string name="nav_open">open</string>
+    <string name="nav_close">close</string>
+
 </resources>
